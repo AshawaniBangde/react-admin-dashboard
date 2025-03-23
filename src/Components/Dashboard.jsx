@@ -138,49 +138,49 @@ const Dashboard = () => {
                                             <li class="nav-item waves-effect waves-light">
                                                 <Link class="nav-link active" data-bs-toggle="tab"  role="tab">
                                                     
-                                                    <span class="d-none d-sm-block home">Sem 1</span> 
+                                                    <span class=" d-sm-block home">Sem 1</span> 
                                                 </Link>
                                             </li>
                                             <li class="nav-item waves-effect waves-light">
                                                 <Link class="nav-link" data-bs-toggle="tab"  role="tab">
                                                     
-                                                    <span class="d-none d-sm-block home1">Sem 2</span> 
+                                                    <span class=" d-sm-block home1">Sem 2</span> 
                                                 </Link>
                                             </li>
                                             <li class="nav-item waves-effect waves-light">
                                                 <Link class="nav-link" data-bs-toggle="tab"  role="tab">
                                                   
-                                                    <span class="d-none d-sm-block home1">Sem 3</span>   
+                                                    <span class=" d-sm-block home1">Sem 3</span>   
                                                 </Link>
                                             </li>
                                             <li class="nav-item waves-effect waves-light">
                                                 <Link class="nav-link" data-bs-toggle="tab" role="tab">
                                                     
-                                                    <span class="d-none d-sm-block home1">Sem 4</span>    
+                                                    <span class=" d-sm-block home1">Sem 4</span>    
                                                 </Link>
                                             </li>
                                             <li class="nav-item waves-effect waves-light">
                                                 <Link class="nav-link" data-bs-toggle="tab" role="tab">
                                                     
-                                                    <span class="d-none d-sm-block home1">Sem 5</span>    
+                                                    <span class=" d-sm-block home1">Sem 5</span>    
                                                 </Link>
                                             </li>
                                             <li class="nav-item waves-effect waves-light">
                                                 <Link class="nav-link" data-bs-toggle="tab" role="tab">
                                                     
-                                                    <span class="d-none d-sm-block home1">Sem 6</span>    
+                                                    <span class=" d-sm-block home1">Sem 6</span>    
                                                 </Link>
                                             </li>
                                             <li class="nav-item waves-effect waves-light">
                                                 <Link class="nav-link" data-bs-toggle="tab" role="tab">
                                                     
-                                                    <span class="d-none d-sm-block home1">Sem 7</span>    
+                                                    <span class=" d-sm-block home1">Sem 7</span>    
                                                 </Link>
                                             </li>
                                             <li class="nav-item waves-effect waves-light">
                                                 <Link class="nav-link" data-bs-toggle="tab" role="tab">
                                                     
-                                                    <span class="d-none d-sm-block home1">Sem 8</span>    
+                                                    <span class=" d-sm-block home1">Sem 8</span>    
                                                 </Link>
                                             </li>
                                         </ul>

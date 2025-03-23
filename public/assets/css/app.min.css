@@ -1477,8 +1477,36 @@ body[data-layout=horizontal] .footer {
 }
 
 @media (max-width:992px) {
+    .copyright{
+        margin-left: 0px !important;
+    }
+    .custom-card{
+        width: 295px !important;
+    }
+    .top_header {
+        width: 266px !important;
+        margin-left: -2%;
+    }
     .vertical-menu {
         display: none
+    }
+    .nav-justified .nav-item .nav-link.active
+    .nav-justified .nav-item .nav-link{
+        width: 10px !important;
+    }
+    .waves-effect {
+        margin: 0 !important;
+    }
+    .amounfee{
+        margin-top: -33px;
+    }
+    .numtotal{
+        margin-top: -33px;
+
+    }
+    .college-card{
+        margin: 21px 0px 0px 0px;
+
     }
 
     .main-content {
