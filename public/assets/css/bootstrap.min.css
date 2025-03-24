@@ -4821,11 +4821,13 @@ fieldset:disabled .btn {
 .nav-fill .nav-item .nav-link,
 .nav-justified .nav-item .nav-link {
     width: 112px;
-    height: 47px;
+    height: 42px;
     margin-top: 15px;
-    background: transparent;  /* Default Background */
-    color: black;  /* Default Text Color */
-    font-weight: bold;
+    background: transparent;
+    color: black;
+    font-weight: 700;
+    font-family: 'DM Sans', sans-serif;
+    padding: 8px;
 }
 
 /* Active Tab Styling (Only for Sem 1) */

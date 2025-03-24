@@ -11,8 +11,8 @@ const Dashboard = () => {
     <div className="page-content">
         <div className="container-fluid shadow-sm">
             
-            <h3>Fees Creation</h3>
-
+        <h3 class="heading-title">Fees Creation</h3>
+        <hr class="yellow-line" />
            
             <div className="card-fees">
                 <div className="row mb-3">
@@ -190,8 +190,8 @@ const Dashboard = () => {
                                 
                             <div class="col-md-7 payment_text">
                                 <label class="form-label fees_name mt-2">Select Fees Payment Templates</label>
-                                <input type="number" class="form-control" placeholder="Select" />
-                                
+                                <input type="text" class="form-control" placeholder="Select" />
+                                <img src="assets/images/users/Shape (1).png" alt="Program Level Icon" className="icon-input" />
 
                                 <div class="row mt-4">
                                     <div class="col-md-6">
@@ -270,12 +270,13 @@ const Dashboard = () => {
 
                             </div>
                             
+                            <hr class="yellow_line" />
                             <div class="container">
-        <div class="d-flex justify-content-end mt-5">
-            <button class="next-btn">Next / Apply</button>
-            <button class="cancle-btn">Cancel</button>
-        </div>
-    </div>
+                                <div class="d-flex justify-content-end mt-5">
+                                    <button class="next-btn">Next / Apply</button>
+                                    <button class="cancle-btn">Cancel</button>
+                                </div>
+                            </div>
         </div>
     </div>
 </div>
